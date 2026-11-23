@@ -16,7 +16,9 @@
 
 ### About
 
-I'm **Tri Puji Antoro (`Torrayz`)** — **Co-Founder & Tech Lead** at **CV. Prabaswara Gandar Prima** and an Informatics undergraduate at **Universitas Pamulang (UNPAM)**, based in Tangerang, Indonesia.
+I'm **Tri Puji Antoro (`Torrayz`)**, a full-stack developer and Informatics undergraduate at **Universitas Pamulang (UNPAM)**, based in Tangerang, Indonesia.
+
+I'm the **Commissioner** of **CV. Prabaswara Gandar Prima**, which I built together with my brother **Syahri Muladiyanto**, the company's **Director**.
 
 I treat architecture, interface, and operations as one unified process — **Design → Build → Deploy** — shipping systems that stay maintainable from database schema to user experience.
 
@@ -30,19 +32,6 @@ I treat architecture, interface, and operations as one unified process — **Des
 | **Backend & Data** | Structured relational schemas, Row-Level Security, and decoupled APIs | `Node.js` · `Express` · `Go` · `PostgreSQL` · `Supabase` · `MySQL` |
 | **DevOps & Linux** | Reproducible developer environments, server setup, and native desktop tooling | `Arch Linux` · `i3 / Sway` · `Docker` · `Nginx` · `PowerShell` |
 | **Applied AI & Tooling** | Practical ML workflows, LLM routing, and local developer automation | `Python` · `FastAPI` · `Random Forest` · `LLM Agents` |
-
----
-
-### Selected Solutions
-
-| Project | What It Solves | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **PortoTorray** | Editorial portfolio paired with a private credential vault, RLS policies, and rate-limited contact API | `Next.js 16` · `TypeScript` · `Supabase` · `GSAP` | [Live](https://torrayz-editorial.vercel.app) · [Repo](https://github.com/Torrayz/PortoTorray) |
-| **Portal Berita** | Multi-client national news platform foundation with staff RBAC, private media storage, and isolated client config | `Next.js` · `TypeScript` · `PostgreSQL RLS` | [Repo](https://github.com/Torrayz/portal-berita) |
-| **IDX Screener Pro** | Structured Indonesian stock market screening via a decoupled frontend and FastAPI service | `Vite` · `Python` · `FastAPI` | [Repo](https://github.com/Torrayz/screnidx) |
-| **Arch Dotfiles** | Lightweight Catppuccin Mocha desktop (`i3` & `Sway`) calibrated for 1366×768 with custom native GTK3 + Cairo hub | `Python` · `GTK3` · `i3 / Sway` · `WezTerm` | [Repo](https://github.com/Torrayz/arch-dotfiles) |
-| **OpenCode Autostart** | Zero-touch Windows Task Scheduler installer to boot local AI coding agents and model routers cleanly | `PowerShell` · `Task Scheduler` | [Repo](https://github.com/Torrayz/opencode-windows-autostart) |
-| **STRYDE** | Modern footwear storefront with cart, checkout flow, order history, and admin inventory management | `Next.js` · `TypeScript` · `Supabase` | [Repo](https://github.com/Torrayz/tokosepatu) |
 
 ---
 
