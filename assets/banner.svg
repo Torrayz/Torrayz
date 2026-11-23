@@ -1,92 +1,92 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Torrayz — Tri Puji Antoro, Full-Stack &amp; AI Application Engineer.">
+<svg width="1120" height="315" viewBox="0 0 1120 315" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Torrayz — Tri Puji Antoro, Full-Stack &amp; AI Application Engineer.">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1120" y2="315" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0C0F14"/>
       <stop offset="55%" stop-color="#11161F"/>
       <stop offset="100%" stop-color="#0E131B"/>
     </linearGradient>
-    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 40) rotate(28) scale(480 240)">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.14"/>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 45) rotate(28) scale(460 240)">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 240) rotate(180) scale(380 220)">
-      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.12"/>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 250) rotate(180) scale(380 220)">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.14"/>
       <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E2634" stroke-width="0.75" stroke-opacity="0.55"/>
     </pattern>
     <clipPath id="cardClip">
-      <rect width="1200" height="300" rx="18"/>
+      <rect width="1120" height="315" rx="18"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#cardClip)">
-    <rect width="1200" height="300" fill="url(#bgGrad)"/>
-    <rect width="1200" height="300" fill="url(#grid)"/>
-    <rect width="1200" height="300" fill="url(#glowLeft)"/>
-    <rect width="1200" height="300" fill="url(#glowRight)"/>
+    <rect width="1120" height="315" fill="url(#bgGrad)"/>
+    <rect width="1120" height="315" fill="url(#grid)"/>
+    <rect width="1120" height="315" fill="url(#glowLeft)"/>
+    <rect width="1120" height="315" fill="url(#glowRight)"/>
 
     <!-- Top accent hairline -->
-    <line x1="0" y1="1" x2="1200" y2="1" stroke="#283244" stroke-width="1"/>
+    <line x1="0" y1="1" x2="1120" y2="1" stroke="#283244" stroke-width="1"/>
 
     <!-- Eyebrow -->
-    <circle cx="62" cy="56" r="4.5" fill="#34D399"/>
-    <text x="78" y="60" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.8" font-weight="600">
+    <circle cx="54" cy="52" r="5" fill="#34D399"/>
+    <text x="72" y="57" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14.5" letter-spacing="1.6" font-weight="600">
       TORRAYZ // TRI PUJI ANTORO
     </text>
 
     <!-- Positioning Headline -->
-    <text x="56" y="122" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8">
+    <text x="48" y="122" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-0.8">
       Full-Stack &amp; AI
     </text>
-    <text x="56" y="168" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8">
+    <text x="48" y="174" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-0.8">
       Application Engineer.
     </text>
 
     <!-- Positioning Subtitle -->
-    <text x="56" y="208" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400">
+    <text x="48" y="216" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17.5" font-weight="400">
       Next.js, TypeScript &amp; Python  |  LLM Integration &amp; Scalable Systems
     </text>
 
     <!-- Metadata pills -->
-    <rect x="56" y="236" width="142" height="28" rx="6" fill="#151C28" stroke="#263144" stroke-width="1"/>
-    <text x="72" y="254" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Tangerang, ID</text>
+    <rect x="48" y="244" width="136" height="34" rx="7" fill="#151C28" stroke="#2B374C" stroke-width="1"/>
+    <text x="64" y="266" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="500">Tangerang, ID</text>
 
-    <rect x="208" y="236" width="224" height="28" rx="6" fill="#151C28" stroke="#263144" stroke-width="1"/>
-    <text x="224" y="254" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Commissioner @ Prabaswara</text>
+    <rect x="194" y="244" width="230" height="34" rx="7" fill="#151C28" stroke="#2B374C" stroke-width="1"/>
+    <text x="210" y="266" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="500">Commissioner @ Prabaswara</text>
 
-    <rect x="442" y="236" width="242" height="28" rx="6" fill="#151C28" stroke="#263144" stroke-width="1"/>
-    <text x="458" y="254" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">torrayz-editorial.vercel.app</text>
+    <rect x="434" y="244" width="252" height="34" rx="7" fill="#151C28" stroke="#2B374C" stroke-width="1"/>
+    <text x="450" y="266" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="500">torrayz-editorial.vercel.app</text>
 
     <!-- Right-side specialization diagram -->
-    <g transform="translate(804, 48)">
+    <g transform="translate(714, 42)">
       <!-- Node 1: AI Applications -->
-      <rect x="0" y="0" width="336" height="54" rx="10" fill="#131924" stroke="#273246" stroke-width="1"/>
-      <circle cx="24" cy="27" r="5" fill="#38BDF8"/>
-      <text x="42" y="24" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">01 / AI-POWERED APPS</text>
-      <text x="42" y="41" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">LLM Integration · Agent Routing · Python ML</text>
+      <rect x="0" y="0" width="358" height="64" rx="10" fill="#131924" stroke="#2B374C" stroke-width="1"/>
+      <circle cx="24" cy="32" r="5.5" fill="#38BDF8"/>
+      <text x="42" y="27" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="600">01 / AI-POWERED APPS</text>
+      <text x="42" y="47" fill="#B8C5D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">LLM Integration · Agent Routing · Python</text>
 
       <!-- Connector 1->2 -->
-      <line x1="168" y1="54" x2="168" y2="74" stroke="#334155" stroke-width="1.5" stroke-dasharray="3 3"/>
+      <line x1="179" y1="64" x2="179" y2="82" stroke="#3B4960" stroke-width="1.5" stroke-dasharray="3 3"/>
 
       <!-- Node 2: Full-Stack Systems -->
-      <rect x="0" y="74" width="336" height="54" rx="10" fill="#131924" stroke="#273246" stroke-width="1"/>
-      <circle cx="24" cy="101" r="5" fill="#818CF8"/>
-      <text x="42" y="98" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">02 / FULL-STACK &amp; BACKEND</text>
-      <text x="42" y="115" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Next.js · TypeScript · Go · PostgreSQL RLS</text>
+      <rect x="0" y="82" width="358" height="64" rx="10" fill="#131924" stroke="#2B374C" stroke-width="1"/>
+      <circle cx="24" cy="114" r="5.5" fill="#818CF8"/>
+      <text x="42" y="109" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="600">02 / FULL-STACK &amp; BACKEND</text>
+      <text x="42" y="129" fill="#B8C5D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">Next.js · TypeScript · Laravel · PostgreSQL</text>
 
       <!-- Connector 2->3 -->
-      <line x1="168" y1="128" x2="168" y2="148" stroke="#334155" stroke-width="1.5" stroke-dasharray="3 3"/>
+      <line x1="179" y1="146" x2="179" y2="164" stroke="#3B4960" stroke-width="1.5" stroke-dasharray="3 3"/>
 
       <!-- Node 3: Workflow Automation -->
-      <rect x="0" y="148" width="336" height="54" rx="10" fill="#131924" stroke="#273246" stroke-width="1"/>
-      <circle cx="24" cy="175" r="5" fill="#34D399"/>
-      <text x="42" y="172" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">03 / WORKFLOW AUTOMATION</text>
-      <text x="42" y="189" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Arch Linux · Docker · PowerShell · APIs</text>
+      <rect x="0" y="164" width="358" height="64" rx="10" fill="#131924" stroke="#2B374C" stroke-width="1"/>
+      <circle cx="24" cy="196" r="5.5" fill="#34D399"/>
+      <text x="42" y="191" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="600">03 / WORKFLOW AUTOMATION</text>
+      <text x="42" y="211" fill="#B8C5D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">Arch Linux · Docker · PowerShell · APIs</text>
     </g>
 
     <!-- Outer border -->
-    <rect x="0.5" y="0.5" width="1199" height="299" rx="17.5" fill="none" stroke="#232C3B" stroke-width="1"/>
+    <rect x="0.5" y="0.5" width="1119" height="314" rx="17.5" fill="none" stroke="#232C3B" stroke-width="1"/>
   </g>
 </svg>
