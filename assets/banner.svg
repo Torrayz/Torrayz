@@ -1,0 +1,92 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Torrayz — Tri Puji Antoro, Building digital systems, end-to-end.">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0C0F14"/>
+      <stop offset="55%" stop-color="#11161F"/>
+      <stop offset="100%" stop-color="#0E131B"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 40) rotate(28) scale(480 240)">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 240) rotate(180) scale(380 220)">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E2634" stroke-width="0.75" stroke-opacity="0.55"/>
+    </pattern>
+    <clipPath id="cardClip">
+      <rect width="1200" height="300" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect width="1200" height="300" fill="url(#bgGrad)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glowLeft)"/>
+    <rect width="1200" height="300" fill="url(#glowRight)"/>
+
+    <!-- Top accent hairline -->
+    <line x1="0" y1="1" x2="1200" y2="1" stroke="#283244" stroke-width="1"/>
+
+    <!-- Eyebrow -->
+    <circle cx="62" cy="58" r="4.5" fill="#34D399"/>
+    <text x="78" y="62" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.8" font-weight="600">
+      TORRAYZ // TRI PUJI ANTORO
+    </text>
+
+    <!-- Main headline -->
+    <text x="56" y="124" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.8">
+      Building digital systems,
+    </text>
+    <text x="56" y="172" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.8">
+      end-to-end.
+    </text>
+
+    <!-- Subtitle -->
+    <text x="56" y="212" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400">
+      Full-Stack Developer &amp; Tech Lead  ·  Design — Build — Deploy
+    </text>
+
+    <!-- Metadata pills -->
+    <rect x="56" y="238" width="142" height="28" rx="6" fill="#151C28" stroke="#263144" stroke-width="1"/>
+    <text x="72" y="256" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Tangerang, ID</text>
+
+    <rect x="208" y="238" width="218" height="28" rx="6" fill="#151C28" stroke="#263144" stroke-width="1"/>
+    <text x="224" y="256" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Co-Founder @ Prabaswara</text>
+
+    <rect x="436" y="238" width="242" height="28" rx="6" fill="#151C28" stroke="#263144" stroke-width="1"/>
+    <text x="452" y="256" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">torrayz-editorial.vercel.app</text>
+
+    <!-- Right-side architectural stack diagram -->
+    <g transform="translate(804, 48)">
+      <!-- Node 1: Interface -->
+      <rect x="0" y="0" width="336" height="54" rx="10" fill="#131924" stroke="#273246" stroke-width="1"/>
+      <circle cx="24" cy="27" r="5" fill="#38BDF8"/>
+      <text x="42" y="24" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">01 / INTERFACE &amp; PRODUCT</text>
+      <text x="42" y="41" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Next.js 16 · React 19 · TypeScript · Tailwind</text>
+
+      <!-- Connector 1->2 -->
+      <line x1="168" y1="54" x2="168" y2="74" stroke="#334155" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+      <!-- Node 2: Backend & Data -->
+      <rect x="0" y="74" width="336" height="54" rx="10" fill="#131924" stroke="#273246" stroke-width="1"/>
+      <circle cx="24" cy="101" r="5" fill="#818CF8"/>
+      <text x="42" y="98" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">02 / BACKEND, DATA &amp; AI</text>
+      <text x="42" y="115" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Node.js · Go · Python · PostgreSQL · Supabase</text>
+
+      <!-- Connector 2->3 -->
+      <line x1="168" y1="128" x2="168" y2="148" stroke="#334155" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+      <!-- Node 3: Systems & Ops -->
+      <rect x="0" y="148" width="336" height="54" rx="10" fill="#131924" stroke="#273246" stroke-width="1"/>
+      <circle cx="24" cy="175" r="5" fill="#34D399"/>
+      <text x="42" y="172" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">03 / SYSTEMS &amp; AUTOMATION</text>
+      <text x="42" y="189" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Arch Linux · Docker · Nginx · Shell Tooling</text>
+    </g>
+
+    <!-- Outer border -->
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="17.5" fill="none" stroke="#232C3B" stroke-width="1"/>
+  </g>
+</svg>
