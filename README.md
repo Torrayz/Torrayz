@@ -1,8 +1,12 @@
 <div align="center">
   <a href="https://torrayz-editorial.vercel.app">
-    <img src="assets/banner.svg" width="100%" alt="Torrayz — Tri Puji Antoro, Building digital systems, end-to-end." />
+    <img src="assets/banner.svg" width="100%" alt="Torrayz — Tri Puji Antoro, Full-Stack &amp; AI Application Engineer." />
   </a>
 </div>
+
+<p align="center">
+  <strong>Full-Stack &amp; AI Application Engineer</strong> · Next.js, TypeScript &amp; Python · LLM Integration &amp; Scalable Systems
+</p>
 
 <p align="center">
   <a href="https://torrayz-editorial.vercel.app"><strong>Portfolio</strong></a>
@@ -16,22 +20,30 @@
 
 ### About
 
-I'm **Tri Puji Antoro (`Torrayz`)**, a full-stack developer and Informatics undergraduate at **Universitas Pamulang (UNPAM)**, based in Tangerang, Indonesia.
+I build **AI-powered applications** and **scalable full-stack web systems** by combining software engineering with practical AI technologies. My focus includes integrating LLM APIs and agent workflows, developing AI-driven features, and architecting reliable backend services that solve real-world problems.
 
-I'm the **Commissioner** of **CV. Prabaswara Gandar Prima**, which I built together with my brother **Syahri Muladiyanto**, the company's **Director**.
-
-I treat architecture, interface, and operations as one unified process — **Design → Build → Deploy** — shipping systems that stay maintainable from database schema to user experience.
+Based in Tangerang, Indonesia, I am an Informatics undergraduate at **Universitas Pamulang (UNPAM)** and serve as **Commissioner** at **CV. Prabaswara Gandar Prima**, which I built together with my brother **Syahri Muladiyanto**, the company's **Director**.
 
 ---
 
-### How I Solve Problems
+### Engineering Experience & Focus
 
-| Domain | Engineering Approach | Core Stack |
+- **AI-Powered Applications & LLM Workflows** — Integrated LLM APIs, custom model-routing proxies, and AI-driven features using Python, Node.js, and React; built applied machine learning pipelines and automated local AI agent workflows to streamline developer productivity.
+- **Full-Stack Web Platforms (`CV. Prabaswara Gandar Prima` & Product Systems)** — Designed and shipped end-to-end web applications using Next.js, TypeScript, and PostgreSQL/Supabase, implementing Row-Level Security (RLS), role-based staff authentication, and responsive user interfaces.
+- **Backend Services & Workflow Automation** — Built decoupled FastAPI and Node.js backend services for structured data screening, alongside cross-platform OS automation across Arch Linux (`i3/Sway`, native GTK3 utilities) and Windows (`PowerShell` Task Scheduler).
+
+---
+
+### Specialization Domains
+
+Instead of treating tools in isolation, my work is organized around the types of solutions I build:
+
+| Solution Domain | Function & Capabilities | Core Stack |
 | :--- | :--- | :--- |
-| **Full-Stack & Mobile** | End-to-end web and mobile products with clear state, auth, and responsive UI | `Next.js 16` · `React 19` · `TypeScript` · `React Native` · `PHP` |
-| **Backend & Data** | Structured relational schemas, Row-Level Security, and decoupled APIs | `Node.js` · `Express` · `Go` · `PostgreSQL` · `Supabase` · `MySQL` |
-| **DevOps & Linux** | Reproducible developer environments, server setup, and native desktop tooling | `Arch Linux` · `i3 / Sway` · `Docker` · `Nginx` · `PowerShell` |
-| **Applied AI & Tooling** | Practical ML workflows, LLM routing, and local developer automation | `Python` · `FastAPI` · `Random Forest` · `LLM Agents` |
+| **AI-Powered Applications** | LLM API integration, model-routing gateways, agent workflow orchestration, and applied ML pipelines | `Python` · `Node.js` · `FastAPI` · `Random Forest` · `LLM APIs` |
+| **Scalable Web Systems** | Full-stack web platforms, editorial CMS workspaces, commerce flows, and role-authenticated dashboards | `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS` · `PHP` |
+| **Backend & Data Engineering** | Relational schema architecture, Row-Level Security, REST APIs, and structured market/data screening | `PostgreSQL` · `Supabase` · `Go` · `Express` · `MySQL` |
+| **Systems & Automation** | Reproducible Linux desktop environments, container deployments, and zero-touch OS boot automation | `Arch Linux` · `Docker` · `Nginx` · `PowerShell` · `GTK3` |
 
 ---
 
@@ -56,10 +68,10 @@ I treat architecture, interface, and operations as one unified process — **Des
 
 <p>
   <strong>Backend, Data &amp; AI</strong><br />
-  <img src="https://img.shields.io/badge/Node.js-11161F?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-11161F?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/Python-11161F?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-11161F?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-11161F?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-11161F?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/PostgreSQL-11161F?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-11161F?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/PHP-11161F?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
@@ -76,5 +88,5 @@ I treat architecture, interface, and operations as one unified process — **Des
 ---
 
 <p align="center">
-  <sub>Built with intention, engineered for clarity. · Open for technical discussions &amp; system collaborations via <a href="https://torrayz-editorial.vercel.app/contact">torrayz-editorial.vercel.app</a></sub>
+  <sub>Built with intention, engineered for clarity. · Curated case studies &amp; project breakdowns live at <a href="https://torrayz-editorial.vercel.app">torrayz-editorial.vercel.app</a></sub>
 </p>
